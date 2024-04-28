@@ -6,7 +6,8 @@
 - 💬 Ask me about **HTML5,Tailwind CSS**
 
 - 📫 How to reach me **zarafshan.A2024@gmail.com**
-- fiverr account **https://www.fiverr.com/zarafshan_bator?up_rollout=true**
+- fiverr account gig one **https://www.fiverr.com/s/arz4B7**
+- fiverr gig 2 **https://www.fiverr.com/s/3Dbq3x**
 
   
 
