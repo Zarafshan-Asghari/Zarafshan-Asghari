@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Zarafshan Asghari</h1>
 <h3 align="center">Web Developer</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **react.js**
 
 - 💬 Ask me about **HTML5,Tailwind CSS**
 
-- 📫 How to reach me **zarafshan.as2001@gmail.com**
+- 📫 How to reach me **zarafshan.A2024@gmail.com**
+- fiverr account **https://www.fiverr.com/zarafshan_bator?up_rollout=true**
 
-- ⚡ Fun fact **I think I am shy .**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
